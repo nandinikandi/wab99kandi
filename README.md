@@ -3,4 +3,4 @@ The purpose of this assignment is to become familiar with using pug templates to
 
 heroku hosted at : https://wab99kandi.herokuapp.com/
 
-My class: Vehicles with attributes make (string), model (string), and year (number).
+My class: Vehicles with attributes make, model, and year.
